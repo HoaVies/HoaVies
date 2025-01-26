@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **viet.hoang@etu.unilim.fr**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
