@@ -1,5 +1,3 @@
-To create a README file for your GitHub profile that aligns with the details in your CV and other uploaded files, here’s a structured template you can use:
-
 ---
 
 ## Hi there! 👋 I'm Hoang Viet
