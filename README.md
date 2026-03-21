@@ -131,7 +131,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HoaVies&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HoaVies&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" width="95%" />
 </div>
 
 <div align="center">
