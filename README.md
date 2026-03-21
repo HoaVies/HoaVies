@@ -2,18 +2,9 @@
 
 ## Hey there! 👋 I'm Hoang Viet
 
-I’m a **third-year Computer Science student** currently studying at the **University of Limoges, France**.  
-I’m passionate about **programming, game development, and creating tech solutions** that make a difference.  
-Right now, I’m looking for opportunities to dive into exciting projects and grow as a developer. Let’s build something amazing together!
-
----
-
-### 🌱 What I’m Learning These Days
-I’m all about picking up new skills and diving into fresh challenges.  
-Currently, I’m exploring:  
-- **Android Development**  
-- **Interoperability**  
-- **Unreal Engine 5**
+I’m a **Full Stack Engineer and AI Specialist** currently working at **Techvify**.  
+I’m passionate about **creating tech solutions** that make a difference.  
+I am open to new crazy ideas, let’s build something amazing together!
 
 ---
 
@@ -33,7 +24,7 @@ Here are some of the languages and tools I love working with:
 ---
 
 ### 📬 Let’s Connect
-The best way to reach me is through email: **viet.hoang@etu.unilim.fr**  
+The best way to reach me is through email: **hoavies@gmail.com**  
 I’m always happy to chat about projects, ideas, or just tech in general.  
 
 ---
