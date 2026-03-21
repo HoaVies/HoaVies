@@ -12,22 +12,21 @@
 
 </div>
 
-## `> whoami` 🧑‍💻
+## 🧑‍💻 About Me
 
-```js
-const hoavies = {
-  name: "Hoang Viet",
-  handle: "HoaVies",
-  location: "Vietnam 🇻🇳",
-  company: "Techvify",
-  role: "Full Stack Engineer",
-  languages: ["C#", "TypeScript", "JavaScript", "Python", "SQL"],
-  philosophy: "Work smart, not hard. Keep it simple - that's how we win.",
-  motto: "If the solution is complex, you don't understand the problem yet.",
-  currentlyBuilding: "Elegant web apps with minimal complexity",
-  funFact: "I mass-produce bugs faster than I fix them 🐛",
-};
-```
+<div align="center">
+
+<table>
+<tr><td>🏷️ Name</td><td><b>Hoang Viet</b> (HoaVies)</td></tr>
+<tr><td>📍 Location</td><td>Vietnam 🇻🇳</td></tr>
+<tr><td>🏢 Company</td><td>Techvify</td></tr>
+<tr><td>💼 Role</td><td>Full Stack Engineer</td></tr>
+<tr><td>🗣️ Languages</td><td>C# · TypeScript · JavaScript · Python · SQL</td></tr>
+<tr><td>🔨 Building</td><td>Elegant web apps with minimal complexity</td></tr>
+<tr><td>🐛 Fun Fact</td><td>I mass-produce bugs faster than I fix them</td></tr>
+</table>
+
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -37,17 +36,21 @@ const hoavies = {
 
 <div align="center">
 
-> *"Simplicity is the way we make everything. Work smart, not hard."*
+### *"Simplicity is the way we make everything. Work smart, not hard."*
+
+<br/>
+
+<table>
+<tr>
+<td align="center">🧩<br/><b>Simple > Clever</b><br/><sub>If a junior can't read it,<br/>rewrite it</sub></td>
+<td align="center">🤖<br/><b>Automate It</b><br/><sub>Let machines do<br/>the repetitive work</sub></td>
+<td align="center">🚀<br/><b>Ship Fast</b><br/><sub>Done is better<br/>than perfect</sub></td>
+<td align="center">✂️<br/><b>Less Code</b><br/><sub>The best code is the<br/>code you never wrote</sub></td>
+<td align="center">🧠<br/><b>Learn Patterns</b><br/><sub>Master patterns,<br/>not frameworks</sub></td>
+</tr>
+</table>
 
 </div>
-
-```text
-✅  Simple > Clever           - If a junior can't read it, rewrite it
-✅  Automate the boring stuff - Let machines do the repetitive work
-✅  Ship fast, iterate faster - Done is better than perfect
-✅  Less code = less bugs     - The best code is the code you never wrote
-✅  Learn once, apply forever - Master patterns, not frameworks
-```
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -137,15 +140,18 @@ const hoavies = {
 
 ## 🎯 What I'm About
 
-```text
-🔭  Building full-stack web apps at Techvify - keeping it simple, shipping it fast
-🧠  Strategy: work smart, not hard - automate, simplify, repeat
-🌱  Always leveling up - currently diving deeper into cloud architecture
-🎨  Creative side: graphic design, photo/video editing, creative coding
-💬  Ask me about .NET, Vue, TypeScript, or why less code is more
-⚡  Fun fact: I mass-produce bugs faster than I fix them
-🤝  Open to collabs on anything wild and ambitious
-```
+<div align="center">
+
+| | |
+|---|---|
+| 🔭 | Building full-stack web apps at Techvify — keeping it simple, shipping it fast |
+| 🧠 | Strategy: work smart, not hard — automate, simplify, repeat |
+| 🌱 | Always leveling up — currently diving deeper into cloud architecture |
+| 🎨 | Creative side: graphic design, photo/video editing, creative coding |
+| 💬 | Ask me about .NET, Vue, TypeScript, or why less code is more |
+| 🤝 | Open to collabs on anything wild and ambitious |
+
+</div>
 
 ## 📬 Let's Connect
 
